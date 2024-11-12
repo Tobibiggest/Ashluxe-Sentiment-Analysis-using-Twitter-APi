@@ -80,7 +80,7 @@ This project also serves as a case study for the effectiveness of **Twitter API 
 ## Getting Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/tobibiggest/ashluxe-twitter-sentiment-analysis-usingatwitter-api.git
+   git clone https://github.com/tobibiggest/ashluxe-twitter-sentiment-analysis-using-twitter-api.git
    ```
 2. **Install dependencies**:
    ```bash
