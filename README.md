@@ -19,17 +19,17 @@ https://github.com/user-attachments/assets/171a5cd8-341d-4458-9caf-e6ea049fe845
 
 To run this project, you'll need access to Twitter’s API (X API). Follow these steps to create a developer account, set up a project, and obtain your API keys.
 
-# 1. Create a Twitter Developer Account
+### 1. Create a Twitter Developer Account
    - Go to the [Twitter Developer Platform](https://developer.twitter.com/).
    - Click on **Sign Up** to create a Twitter Developer account (you’ll need a regular Twitter account to sign up).
    - Complete the sign-up form and agree to Twitter's terms and conditions.
 
-# 2. Apply for Elevated Access
+### 2. Apply for Elevated Access
    - In the Developer Portal, create a new project by going to **Projects & Apps > Overview** and selecting **Create Project**.
    - Choose a project name, description, and intended use case for the API.
    - **Note**: Basic access gives you limited API functionality. To use more features like full search functionality, consider applying for **Elevated Access** if required.
 
-# 3. Obtain API Keys and Access Tokens
+### 3. Obtain API Keys and Access Tokens
    - Once your project is created, go to **Projects & Apps > Overview** and click on **+ Add App** under your project.
    - After creating your app, navigate to the **Keys and Tokens** tab.
    - Generate and save the following credentials:
@@ -38,7 +38,7 @@ To run this project, you'll need access to Twitter’s API (X API). Follow these
      - **Bearer Token**
      - **Access Token and Access Token Secret**
 
-# 4. Secure Your Credentials
+### 4. Secure Your Credentials
    - Treat these keys like passwords. Avoid sharing or exposing them publicly.
 
 ## Data Collection
